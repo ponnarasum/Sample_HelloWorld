@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+//hai
 
 @implementation AppDelegate
 
